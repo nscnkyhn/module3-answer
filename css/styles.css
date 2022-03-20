@@ -1,0 +1,33 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header-nav {
+    background:rgb(167, 220, 20);
+}
+
+.navbar-brand {
+    font-size:2em;
+}
+
+.collapsable-menu-item {
+    background: rgb(167, 120, 20);
+    text-align: center;
+    padding: 10px;
+    margin: 0 10px 10px;
+    font-size: 1.1em;
+}
+
+.collapsable-menu-item:hover {
+    background:rgb(167, 120, 120);
+}
+
+
+#paragraph {
+    background: rgb(207, 255, 131);
+    height:1000px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    overflow:auto;
+}
